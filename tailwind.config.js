@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        playfair: "'Playfair Display'",
-        montserrat: "'Montserrat'",
+        playfair: 'Playfair Display, serif',
+        montserrat: 'Montserrat, sans-serif',
       },
       fontSize: {
         '3xs': '.50rem',
